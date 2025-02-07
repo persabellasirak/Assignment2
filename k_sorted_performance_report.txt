@@ -1,0 +1,51 @@
+Sorting Algorithm – BubbleSort
+Sorted 100 elements in 0.352 ms (avg)
+Sorted 500 elements in 0.398 ms (avg)
+Sorted 1000 elements in 0.263 ms (avg)
+Sorted 2000 elements in 0.799 ms (avg)
+Sorted 5000 elements in 4.251 ms (avg)
+Sorted 10000 elements in 15.148 ms (avg)
+Sorted 20000 elements in 60.481 ms (avg)
+Sorted 75000 elements in 849.871 ms (avg)
+Sorted 150000 elements in 3375.506 ms (avg)
+
+Sorting Algorithm – InsertionSort
+Sorted 100 elements in 0.013 ms (avg)
+Sorted 500 elements in 0.060 ms (avg)
+Sorted 1000 elements in 0.120 ms (avg)
+Sorted 2000 elements in 0.206 ms (avg)
+Sorted 5000 elements in 0.056 ms (avg)
+Sorted 10000 elements in 0.066 ms (avg)
+Sorted 20000 elements in 0.224 ms (avg)
+Sorted 75000 elements in 0.155 ms (avg)
+Sorted 150000 elements in 0.484 ms (avg)
+
+Sorting Algorithm – SelectionSort
+Sorted 100 elements in 0.225 ms (avg)
+Sorted 500 elements in 0.373 ms (avg)
+Sorted 1000 elements in 0.314 ms (avg)
+Sorted 2000 elements in 0.631 ms (avg)
+Sorted 5000 elements in 3.712 ms (avg)
+Sorted 10000 elements in 14.770 ms (avg)
+Sorted 20000 elements in 58.607 ms (avg)
+Sorted 75000 elements in 869.334 ms (avg)
+Sorted 150000 elements in 2802.173 ms (avg)
+
+Sorting Algorithm – ShellSort
+Sorted 100 elements in 0.026 ms (avg)
+Sorted 500 elements in 0.175 ms (avg)
+Sorted 1000 elements in 0.042 ms (avg)
+Sorted 2000 elements in 0.057 ms (avg)
+Sorted 5000 elements in 0.161 ms (avg)
+Sorted 10000 elements in 0.149 ms (avg)
+Sorted 20000 elements in 0.102 ms (avg)
+Sorted 75000 elements in 0.501 ms (avg)
+Sorted 150000 elements in 0.948 ms (avg)
+
+Sorting Algorithm – QuickSort
+Sorted 100 elements in 0.112 ms (avg)
+Sorted 500 elements in 0.128 ms (avg)
+Sorted 1000 elements in 0.132 ms (avg)
+Sorted 2000 elements in 0.530 ms (avg)
+Sorted 5000 elements in 2.789 ms (avg)
+Sorted 10000 elements in 10.990 ms (avg)
