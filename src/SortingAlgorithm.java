@@ -23,6 +23,7 @@ class BubbleSort implements SortingAlgorithm {
 
 // Insertion Sort implementation
 class InsertionSort implements SortingAlgorithm {
+
     public int[] sorty(int[] input) {
         int[] arr = input.clone();
         int n = arr.length;
@@ -61,6 +62,7 @@ class SelectionSort implements SortingAlgorithm {
 
 // Shell Sort implementation
 class ShellSort implements SortingAlgorithm {
+
     public int[] sorty(int[] input) {
         int[] arr = input.clone();
         int n = arr.length;
